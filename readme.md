@@ -54,10 +54,6 @@ This project is licensed under the [Apache License 2.0](https://github.com/Bhavi
 
 ---
 
-**Note**: This project is intended for educational and research purposes. Please ensure compliance with the terms of use and guidelines of the APIs and services utilized.
-
----
-
 I hope this repository serves as a valuable resource in your journey of exploring AI and chatbot development. For additional information and tutorials.
 
 Happy Coding! 🚀👨‍💻🤖
