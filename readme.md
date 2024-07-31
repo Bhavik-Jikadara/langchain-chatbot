@@ -50,7 +50,7 @@ To run the Streamlit app, use the following command:
 
 ## License
 
-This project is licensed under the [Apache License 2.0]("LICENSE"). See the LICENSE file for more details.
+This project is licensed under the [Apache License 2.0](https://github.com/Bhavik-Jikadara/langchain-chatbot/blob/main/LICENSE). See the LICENSE file for more details.
 
 ---
 
